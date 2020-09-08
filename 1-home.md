@@ -1,17 +1,14 @@
 ---
 layout: home
-title: Home
+title: Inicio
 permalink: /
 ---
 
-# THIS IS THE FIRST TITLE
+# Desde “Sero”: la lucha mexicana del VIH contra la industria farmacéutica
 
-This text is a paragraph.
-This won't be another paragraph, it will join the line above it.
+Cinco meses sin estudios de carga viral y con carencia de medicamentos, en mitad de la emergencia sanitaria por covid-19, es la situación en la que al menos se encuentran nueve personas que viven con el Virus de Inmunodeficiencia Humana (VIH). “Si algo en México es transexenal, son los problemas con el aparato de salud pública”, explica una de las personas afectadas que pidió anonimato. 
 
-This will be another paragraph, as it has a blank line above it.
-
-[Website version](https://towerbuilder.projectpoder.org/)
-[Website iframe version](https://towerbuilder.projectpoder.org/?iframe)
-[Visualization iframe](https://towerbuilder.projectpoder.org/iframe-visualization/)
-[Slider iframe](https://towerbuilder.projectpoder.org/iframe-slider/)
+[Reportaje](/2020/09/22/reportaje.html)
+[Entrevista](/entrevista/)
+[Testimonios](/testimonios/)
+[Contratos](/contratos/)
