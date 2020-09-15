@@ -4,6 +4,9 @@ title: "Desde “Sero”: la lucha mexicana del VIH contra la industria farmacé
 author: "Ricardo Balderas"
 ---
 
+{:.image-post}
+![Desde “Sero”: la lucha mexicana del VIH contra la industria farmacéutica]({{ site.baseurl }}/assets/img/MEXICO.jpg)
+
 Cinco meses sin estudios de carga viral y con carencia de medicamentos, en mitad de la emergencia sanitaria por covid-19, es la situación en la que al menos se encuentran nueve personas que viven con el Virus de Inmunodeficiencia Humana (VIH). “Si algo en México es transexenal, son los problemas con el aparato de salud pública”, explica una de las personas afectadas que pidió anonimato. 
 
 Las pruebas serológicas deben tener una frecuencia trimestral y son fundamentales para determinar la etapa en la que se encuentra el VIH en el cuerpo de la persona. La ineficiencia del Estado para atender el derecho a la salud de las personas afectas por la vieja pandemia del VIH en la nueva pandemia de la Covid ha disparado el mercado ilegal de Antirretrovirales (ARV). El primer mes de confinamiento  cinco personas seropositivas perdieron la vida y el gobierno no está detallando en sus reportes de Covid cuántas personas que viven con esta condición están luchando por su vida en las salas de algún hospital a causa del nuevo virus[^nota1]. 
@@ -24,12 +27,9 @@ Esa escena, donde grupos de jóvenes que no pasan de los 30 años venden medicam
 
 Los medicamentos que ahí ofertan claramente poseen la leyenda que cita: “Clave para uso exclusivo del sector salud”, es decir que su venta está prohibida debido a que se trata de medicamento comprado por el Estado. De ahí que algunos activistas como Pinzón, director del grupo de apoyo comunitario VIHveLibre, argumenten que en ocasiones son las propias instituciones las que trafican con medicamentos: “Truvada, de manera legal (y fuera de las instituciones de salud) se puede conseguir solamente en el genérico con un costo de tres mil pesos (…) Cualquier cosa se puede conseguir, nuestra teoría, que no hemos podido comprobar, es que hay personas de la Secretaría de Salud u otras dependencias metidas en el tráfico y generando un desabasto en los almacenes”.
 
-[Audio del traficante, fotos de los medicamentos 
-con clave del Estado y fotos de la zona]
-
 <div class="col-lg-12 col-md-12 col-sm-12 text-center">
     <audio controls>
-        <source src="{{ site.baseurl }}/assets/audios/" type="audio/mp3">
+        <source src="{{ site.baseurl }}/assets/audios/Traficante.m4a" type="audio/mp3">
         Tu navegador no soporta HTML5 audio.
     </audio>
 </div>
@@ -39,7 +39,7 @@ con clave del Estado y fotos de la zona]
 con clave del Estado]({{ site.baseurl }}/assets/img/medicamento.jpg)
 
 {:.image-post}
-![Zona]({{ site.baseurl }}/assets/img/zona.jpg)
+![Foto de la zona]({{ site.baseurl }}/assets/img/zona.jpg)
 
 Pinzón además encontró pruebas de tráfico de medicamento en redes sociales como Facebook, este caso era similar al de la venta en espacios públicos. Los medicamentos localizados por Pinzón también poseen clave identificadora del Estado y conservan la leyenda: “Prohibida su venta”. Ante el embate del comercio ilegal y las fallas en el sistema de salud que todos los días le reportan, Alaín Pinzón y su organización se encuentran repartiendo medicamento por toda la república apoyándose principalmente en donaciones de organizaciones de la sociedad civil.
 
@@ -101,8 +101,6 @@ Esta compleja amalgama de errores logísticos, tráfico de drogas, pagos atrasad
 
 
 _______________________________
-
-**Historia de Ricardo Balderas, editada por Eduard Martín-Borregón**
 
 [^nota1]: *[COVID y VIH: https://www.milenio.com/ciencia-y-salud/coronavirus-han-muerto-cinco-personas-con-vih-que-se-contagiaron](https://www.milenio.com/ciencia-y-salud/coronavirus-han-muerto-cinco-personas-con-vih-que-se-contagiaron)*
 
