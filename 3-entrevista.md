@@ -4,8 +4,8 @@ title: Entrevista
 permalink: /entrevista/
 ---
 
-Alejandro Brito
-Director y Fundador de Letra S
+# Alejandro Brito
+## Director y Fundador de Letra S
 
 
 Alejandro Brito asumió que vivía con VIH por terror a vivir con VIH. Asumirse, en consecuencia, le ayudó a romper con un círculo de culpa que lo paralizaba.  
