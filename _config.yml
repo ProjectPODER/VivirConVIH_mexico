@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tower Builder
+title: Vivir con VIH México
 
 # Logo image
 image: vih-mexico.png
 
 #Description of your site
 description: >-
-  TowerBuilder is a system to generate websites with data visualizations that mix open contracting and beneficial ownership data, all without requiring programming knowledge.
+  Ni la pandemia por COVID-19 detuvo a los traficantes de medicamentos. Mientras la Emergencia Sanitaria colapsaba el abastecimiento federal de ARV, algunas cápsulas de uso exclusivo del Sector Salud eran ofertadas en los mercados ilegales a plena luz del día.
 
 # URL of your contracts file or API endpoint
 contracts_url: "https://landing.vivirconvih.org/assets/data/vih_bolivia.csv"
@@ -64,10 +64,10 @@ graph:
 menu_button_title: Más información
 
 # Customize the titles and placeholder inputs in Contracts page
-contracts_title: Contratos por empresas
+contracts_title: Contratos por empresas 2017-2019
 search_title: Búsqueda
 search_placeholder: Introduce palabra clave a buscar
-amount_title: Monto total (en pesos mexicanos)
+amount_title: Monto total (en USD)
 amount_from_placeholder: Desde $
 amount_to_placeholder: hasta $
 type_contract_title: Tipo de contratación
