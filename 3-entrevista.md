@@ -5,12 +5,17 @@ permalink: /entrevista/
 ---
 
 # Alejandro Brito
-## Director y Fundador de Letra S
+### Director y Fundador de Letra S
 
 
-Alejandro Brito asumió que vivía con VIH por terror a vivir con VIH. Asumirse, en consecuencia, le ayudó a romper con un círculo de culpa que lo paralizaba.  
+**_Alejandro Brito asumió que vivía con VIH por terror a vivir con VIH. Asumirse, en consecuencia, le ayudó a romper con un círculo de culpa que lo paralizaba._**
 
-Brito suma ya 30 años de militancia en primera persona. El 2 de octubre de 1978, durante el décimo aniversario del movimiento estudiantil del 68, Alejandro Brito, director y fundador de la organización Letra S, salió por primera vez del clóset.  
+*Por Ricardo Balderas • Septiembre 22, 2020*
+
+Brito suma ya 30 años de militancia en primera persona. El 2 de octubre de 1978, durante el décimo aniversario del movimiento estudiantil del 68, Alejandro Brito, director y fundador de la organización Letra S, salió por primera vez del clóset. 
+
+{:.image-post}
+![Alejandro Brito]({{ site.baseurl }}/assets/img/Alejandro_Brito_00.jpg)
 
 Esa manifestación fue distinta a la del resto de los aniversarios en contra de la dictadura priista. Junto a él (Alejandro), otros miles de manifestantes gozaban de la aparición pública de los primeros tres contingentes civiles a favor de las disidencias sexuales, mismos que culminarían construyendo las bases iniciales del movimiento LGBT+ en México. 
 
@@ -18,15 +23,42 @@ El año siguiente, entre el barroquismo marginal del México de los alconazos e 
 
 La experiencia de Alejandro Brito, como historiador y periodista, lo condujo a documentar una hecatombe que estaba por arribar en el país. La llegada del VIH/SIDA. Pero esta primer catástrofe de la diversidad sexual llegó justo cuando los grupos fundadores estaban más divididos.
 
+{:.image-post}
+![Alejandro Brito]({{ site.baseurl }}/assets/img/Alejandro_Brito_01.jpg)
+
 En 1983 aparecieron los primeros casos de personas que habían tenido contacto con el Virus de Inmunodeficiencia Humana (VIH). Y la comunidad, dividida por diferencias entre posicionamientos políticos, vio morir uno a uno a sus aliados. El terror se introdujo en las sábanas de la rebelión y los desarticuló desde sus camas.
 
 Para 1994, Alejandro Brito había tenido que salir de un segundo clóset. Ante el terror de haber tenido contacto con el virus, el también periodista decidió asumir que vivía con VIH. Aunque desconocía su estado serológico, explica que ese acto, le ayudó a enfrentar el terror a la muerte. Ahí nació Letra S.
 
 Letra S es una fundación civil sin fines de lucro que originalmente surgió con el objetivo de contrarrestar el embate mediático de las redacciones convencionales. Alejandro quería un medio de comunicación, pero la necesidad construyó una organización civil.
 
+{:.image-post}
+![Alejandro Brito]({{ site.baseurl }}/assets/img/Alejandro_Briito_02.jpg)
+
 De la mano de Alejandro iban el escritor Carlos Monsiváis, el activista Arturo Díaz, primer presidente de Mexicanos contra el SIDA y la académica feminista Marta Lamas. La exigencia: Antirretrovirales para todas y todos. 
 
 Esta batalla cambió, según explica Alejandro, una vez que comenzaron a aparecer otros líderes sociales que se sumaron a la causa. En la actualidad, la lucha es porque el medicamento llegue y que cuando llegue, no termine por envenenarte. 
 
-{:.image-post}
-![]({{ site.baseurl }}/assets/img/)
+<div class="row text-center mb-4">
+    <div class="col-lg-4">
+        <p>Entrevista primera parte:</p>
+        <audio controls class="mr-3">
+            <source src="{{ site.baseurl }}/assets/audios/Alejandro Brito_00.mp3" type="audio/mp3">
+            Tu navegador no soporta HTML5 audio.
+        </audio>
+    </div>
+    <div class="col-lg-4">
+        <p>Entrevista segunda parte:</p>
+        <audio controls class="mr-3">
+            <source src="{{ site.baseurl }}/assets/audios/Alejandro Brito_01.mp3" type="audio/mp3">
+            Tu navegador no soporta HTML5 audio.
+        </audio>
+    </div>
+    <div class="col-lg-4">
+        <p>Entrevista tercera parte:</p>
+        <audio controls>
+            <source src="{{ site.baseurl }}/assets/audios/Alejandro Brito_02.mp3" type="audio/mp3">
+            Tu navegador no soporta HTML5 audio.
+        </audio>
+    </div>
+</div>

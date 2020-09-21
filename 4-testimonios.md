@@ -33,7 +33,11 @@ Alonso escucha su nombre y atraviesa una puerta donde un médico tiene sus resul
 
 Entra a una sala de unos seis metros cuadrados, un especialista le explica a detalle lo que buscaron en su sangre, le pregunta sobre su más reciente relación sexual, sobre sus practicas sexuales. Nadie piensa previamente que las ganas de sentir el contacto con otra piel, pueda ser considerado de interés clínico. Le regalan condones y le advierten sobre los riesgos de tocar a otras personas. Lo invitan a recibir otra pinchada en la sala pasada. Pero la rechaza.  
 
-Aquí, en esta antesala del Tártaro moderno, cada quien se agarra de donde puede. Yo por ejemplo, me agarré de Alonso. No hay nada más humano que el miedo a una sentencia irrevocable o el enojo de saber, a ciencia cierta, que esto seguirá ocurriendo descuido tras descuido.
-
 {:.image-post}
 ![]({{ site.baseurl }}/assets/img/430003_113429235501443_1571673796_n.jpg)
+
+Aquí, en esta antesala del Tártaro moderno, cada quien se agarra de donde puede. Yo por ejemplo, me agarré de Alonso. No hay nada más humano que el miedo a una sentencia irrevocable o el enojo de saber, a ciencia cierta, que esto seguirá ocurriendo descuido tras descuido.
+
+<div class="embed-responsive embed-responsive-16by9 mb-4">
+  <iframe class="embed-responsive-item" width="560" height="315" src="{{ site.baseurl }}/assets/img/Luis-quiroz.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
