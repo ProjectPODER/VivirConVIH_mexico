@@ -39,5 +39,5 @@ Entra a una sala de unos seis metros cuadrados, un especialista le explica a det
 Aquí, en esta antesala del Tártaro moderno, cada quien se agarra de donde puede. Yo por ejemplo, me agarré de Alonso. No hay nada más humano que el miedo a una sentencia irrevocable o el enojo de saber, a ciencia cierta, que esto seguirá ocurriendo descuido tras descuido.
 
 <div class="embed-responsive embed-responsive-16by9 mb-4">
-  <iframe class="embed-responsive-item" width="560" height="315" src="{{ site.baseurl }}/assets/img/Luis-quiroz.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/SN8j3HC_H9Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

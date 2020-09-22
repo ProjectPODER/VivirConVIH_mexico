@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: visualization-example.png
+image: visualizacion3.png
 ---
 
 México adquiere 38 tipos distintos de medicamentos antirretrovirales, 28 de ellos, también fueron comprados por los otros cinco países analizados. En 17 casos, México fue el país que más caro pagó por ellos y con diferencias significativas.

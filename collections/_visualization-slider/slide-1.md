@@ -1,6 +1,6 @@
 ---
 title: Slide 1
-image: visualization-example.png
+image: visualizacion1.png
 ---
 
 274 millones de dólares, esta es la cantidad que México gastó en la compra de antirretrovirales en el periodo 2017-2019. El tratamiento para las 179.640 personas que viven con el Virus de  Inmunodeficiencia Humano es caro, México es el país que compra peor, de los seis analizados para este proyecto. 

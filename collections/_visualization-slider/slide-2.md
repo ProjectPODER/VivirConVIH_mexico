@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: visualization-example.png
+image: visualizacion2.png
 ---
 
 En México, el 96% de los medicamentos fueron adquiridos por la modalidad de adjudicación directa según las 9,659 compras analizados que incluyen las de ARV realizadas por Secretaria Salud, IMSS, ISSSTE, SEDENA, Marina y las 32 delegaciones de CENSIDA.
