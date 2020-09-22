@@ -7,4 +7,4 @@ El principal proveedor de estos medicamentos es Farmacéuticos Maypo, con ventas
 
 México debe cambiar de forma urgente su forma de compra y distribución de medicamentos para garantizar el Derecho a la Salud de sus habitantes. La intención de esta administración de comprar a través de la OMS y la OPS podría ser un buen primer paso. 
 
-[VER INFORME COMPLETO]()
+[VER INFORME COMPLETO](https://vivirconvih.org/assets/informevivirconvih.pdf)
