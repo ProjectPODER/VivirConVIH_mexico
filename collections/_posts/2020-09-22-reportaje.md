@@ -7,6 +7,8 @@ author: "Ricardo Balderas"
 {:.image-post}
 ![Desde “Sero”: la lucha mexicana del VIH contra la industria farmacéutica]({{ site.baseurl }}/assets/img/MEXICO.jpg)
 
+Reportaje también publicado en [Rindecuentas](https://www.rindecuentas.org/reportajes/2020/09/22/desde-sero-la-lucha-mexicana-del-vih-contra-la-industria-farmaceutica/).
+
 Cinco meses sin estudios de carga viral y con carencia de medicamentos, en mitad de la emergencia sanitaria por covid-19, es la situación en la que, al menos, se encuentran nueve personas que viven con el Virus de Inmunodeficiencia Humana (VIH). “Si algo en México es transexenal, son los problemas con el aparato de salud pública”, explica una de las personas afectadas que pidió anonimato. 
 
 Las pruebas serológicas en pacientes que viven con VIH deben tener cierta frecuencia dependiendo la carga viral y son fundamentales para determinar la etapa en la que se encuentra el virus en el organismo. La ineficiencia del Estado para atender el derecho a la salud de las personas afectas por la vieja pandemia del VIH durante la nueva pandemia de la covid ha disparado el mercado ilegal de Antirretrovirales (ARV). En el primer mes de confinamiento cinco personas seropositivas perdieron la vida y el gobierno no está detallando en sus reportes de covid cuántas personas que viven con esta condición están luchando por su vida en las salas de algún hospital a causa del nuevo virus[^nota1]. 
